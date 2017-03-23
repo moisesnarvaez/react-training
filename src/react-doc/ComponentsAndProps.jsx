@@ -49,7 +49,6 @@ class ComponentsAndProps extends Component {
   }
 }
 
-
 export default ComponentsAndProps;
 
 
