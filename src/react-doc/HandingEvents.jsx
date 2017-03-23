@@ -4,11 +4,9 @@ class ToggleButton extends Component{
   constructor(props) {
     super(props);
     this.state = { currentStatus: false };
-
-    this.toggleState = this.toggleState.bind(this);
   }
 
-  toggleState() {
+  toggleState = () => {
     this.setState(prevState =>({
       currentStatus: !prevState.currentStatus
     }))
