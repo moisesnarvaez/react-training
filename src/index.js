@@ -8,6 +8,7 @@ import App from './App';
 //import ListKeys from './react-doc/ListKeys.jsx';
 //import Form from './react-doc/Form.jsx';
 //import Lifting from './react-doc/Lifting.jsx';
+//import Composition from './react-doc/Composition.jsx';
 import './index.css';
 
 ReactDOM.render(
