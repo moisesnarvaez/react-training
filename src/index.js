@@ -9,9 +9,11 @@ import App from './App';
 //import Form from './react-doc/Form.jsx';
 //import Lifting from './react-doc/Lifting.jsx';
 //import Composition from './react-doc/Composition.jsx';
+// import Ex3 from './koombea/Ex3.js';
+import Todo from './koombea/todo.js';
 import './index.css';
 
 ReactDOM.render(
-  <App />,
+  <Todo />,
   document.getElementById('root')
 );
